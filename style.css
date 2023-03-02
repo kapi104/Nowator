@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(dark-honeycomb.png);
+}
+
+header {
+    background-color: rgb(177, 0, 0);
+    height: 8vh;
+    width: 100%;
+}
